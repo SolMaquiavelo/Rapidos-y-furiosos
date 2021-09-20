@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Koh+Santepheap&display=swap');
+
+body{
+    background-color: rgb(211, 189, 163); 
+    color: rgb(0, 0, 0);
+    font-family: 'Koh Santepheap', cursive;
+
+}
+
+.video{text-align: center;}
+h1{text-align: center;
+background-color: rgb(241, 166, 75);}
+h2{background-color: rgb(223, 170, 106);}
